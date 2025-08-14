@@ -1,0 +1,2 @@
+C:\Users\purnj\Desktop\BC\2025\LPR381\Project\Code\Linear Programming\obj\Debug\Linear Programming.csproj.AssemblyReference.cache
+C:\Users\purnj\Desktop\BC\2025\LPR381\Project\Code\Linear Programming\obj\Debug\Linear Programming.csproj.CoreCompileInputs.cache
