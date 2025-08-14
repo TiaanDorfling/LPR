@@ -1,2 +1,7 @@
 C:\Users\purnj\Desktop\BC\2025\LPR381\Project\Code\Linear Programming\obj\Debug\Linear Programming.csproj.AssemblyReference.cache
 C:\Users\purnj\Desktop\BC\2025\LPR381\Project\Code\Linear Programming\obj\Debug\Linear Programming.csproj.CoreCompileInputs.cache
+C:\Users\purnj\Desktop\BC\2025\LPR381\Project\Code\Linear Programming\bin\Debug\Linear Programming.exe.config
+C:\Users\purnj\Desktop\BC\2025\LPR381\Project\Code\Linear Programming\bin\Debug\Linear Programming.exe
+C:\Users\purnj\Desktop\BC\2025\LPR381\Project\Code\Linear Programming\bin\Debug\Linear Programming.pdb
+C:\Users\purnj\Desktop\BC\2025\LPR381\Project\Code\Linear Programming\obj\Debug\Linear Programming.exe
+C:\Users\purnj\Desktop\BC\2025\LPR381\Project\Code\Linear Programming\obj\Debug\Linear Programming.pdb
